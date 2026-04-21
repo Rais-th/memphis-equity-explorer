@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-04-21T04:54:03.682Z",
+  "sources": [
+    {
+      "name": "Memphis City Council Districts 2023",
+      "owner": "City of Memphis / OPM",
+      "url": "https://services6.arcgis.com/FayuIc8kjcIuYMDI/arcgis/rest/services/DBO_Memphis_Council_Districts_2023/FeatureServer/0"
+    },
+    {
+      "name": "MPD Traffic Stops",
+      "owner": "Memphis Police Department",
+      "url": "https://services2.arcgis.com/saWmpKJIUAjyyNVc/arcgis/rest/services/MPD_Traffic_Stops/FeatureServer/0"
+    },
+    {
+      "name": "MPD Traffic Citations",
+      "owner": "Memphis Police Department",
+      "url": "https://services2.arcgis.com/saWmpKJIUAjyyNVc/arcgis/rest/services/MPD_Traffic_Citations/FeatureServer/0"
+    },
+    {
+      "name": "MPD Public Safety Incidents (NIBRS)",
+      "owner": "Memphis Police Department",
+      "url": "https://services2.arcgis.com/saWmpKJIUAjyyNVc/arcgis/rest/services/MPD_Public_Safety_Incidents/FeatureServer/0"
+    },
+    {
+      "name": "Fire Services Metrics (911 / EMS / Fire response)",
+      "owner": "Memphis Fire Department",
+      "url": "https://services2.arcgis.com/saWmpKJIUAjyyNVc/arcgis/rest/services/Fire_Services_Metrics/FeatureServer/0"
+    }
+  ],
+  "totals": {
+    "trafficStops12m": 193751,
+    "incidents12m": 81552,
+    "citations12m": 173263,
+    "population": 628127
+  },
+  "note": "Per-1,000 rates use an equal-weighted district population estimate (total Memphis population / 7). Citywide metrics (911 answer time, EMS response, citation mix, driver-race breakdown) are reported at the city level because the underlying datasets do not carry council-district keys."
+}

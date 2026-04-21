@@ -1,0 +1,132 @@
+{
+  "generatedAt": "2026-04-21T04:54:03.682Z",
+  "coverageMonths": 12,
+  "districts": [
+    {
+      "id": "1",
+      "name": "District 1",
+      "centroid": [
+        -89.82185183377268,
+        35.20543966514352
+      ],
+      "metrics": {
+        "trafficStops12m": 20757,
+        "incidents12m": 8563,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 231.3221593188606,
+        "incidentsPer1k": 95.42860963758748,
+        "population": 89732
+      }
+    },
+    {
+      "id": "2",
+      "name": "District 2",
+      "centroid": [
+        -89.78925345687522,
+        35.11897154219974
+      ],
+      "metrics": {
+        "trafficStops12m": 20234,
+        "incidents12m": 6705,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 225.49369232826638,
+        "incidentsPer1k": 74.7225070209067,
+        "population": 89732
+      }
+    },
+    {
+      "id": "3",
+      "name": "District 3",
+      "centroid": [
+        -89.87084677799737,
+        35.0238128499134
+      ],
+      "metrics": {
+        "trafficStops12m": 31142,
+        "incidents12m": 12278,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 347.05567690456024,
+        "incidentsPer1k": 136.8296705745999,
+        "population": 89732
+      }
+    },
+    {
+      "id": "4",
+      "name": "District 4",
+      "centroid": [
+        -89.95084611241737,
+        35.09258101344038
+      ],
+      "metrics": {
+        "trafficStops12m": 27612,
+        "incidents12m": 13818,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 307.7163107921366,
+        "incidentsPer1k": 153.99188695225783,
+        "population": 89732
+      }
+    },
+    {
+      "id": "5",
+      "name": "District 5",
+      "centroid": [
+        -89.93525993555843,
+        35.1283549573108
+      ],
+      "metrics": {
+        "trafficStops12m": 24224,
+        "incidents12m": 9649,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 269.9594347612892,
+        "incidentsPer1k": 107.53131547274106,
+        "population": 89732
+      }
+    },
+    {
+      "id": "6",
+      "name": "District 6",
+      "centroid": [
+        -90.08908707239033,
+        35.05295556321894
+      ],
+      "metrics": {
+        "trafficStops12m": 31952,
+        "incidents12m": 15362,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 356.08255694735436,
+        "incidentsPer1k": 171.19868051531225,
+        "population": 89732
+      }
+    },
+    {
+      "id": "7",
+      "name": "District 7",
+      "centroid": [
+        -90.00965690656297,
+        35.219738490429066
+      ],
+      "metrics": {
+        "trafficStops12m": 37830,
+        "incidents12m": 15177,
+        "citationsTotal12m": null,
+        "citationMovingPct": 38.94368676520665,
+        "citationNonMovingPct": 58.8694643403381,
+        "trafficStopsPer1k": 421.5887308875317,
+        "incidentsPer1k": 169.1369856907235,
+        "population": 89732
+      }
+    }
+  ]
+}

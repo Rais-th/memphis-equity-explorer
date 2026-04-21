@@ -1,0 +1,189 @@
+{
+  "generatedAt": "2026-04-21T04:54:03.682Z",
+  "months": [
+    {
+      "date": "2024-04-01",
+      "e911Calls": 11216,
+      "answerTime15sPct": 94.42,
+      "fireResponse320sPct": 68.11,
+      "emsResponse540sPct": 81.66,
+      "emergentIncidents": 8430
+    },
+    {
+      "date": "2024-05-01",
+      "e911Calls": 12545,
+      "answerTime15sPct": 92.72,
+      "fireResponse320sPct": 65.27,
+      "emsResponse540sPct": 80.94,
+      "emergentIncidents": 8898
+    },
+    {
+      "date": "2024-06-01",
+      "e911Calls": 9284,
+      "answerTime15sPct": 92.34,
+      "fireResponse320sPct": 70.87,
+      "emsResponse540sPct": 81.73,
+      "emergentIncidents": 8462
+    },
+    {
+      "date": "2024-07-01",
+      "e911Calls": 10973,
+      "answerTime15sPct": 94,
+      "fireResponse320sPct": 66.67,
+      "emsResponse540sPct": 82.05,
+      "emergentIncidents": 8461
+    },
+    {
+      "date": "2024-08-01",
+      "e911Calls": 12842,
+      "answerTime15sPct": 93.46,
+      "fireResponse320sPct": 67.76,
+      "emsResponse540sPct": 81.09,
+      "emergentIncidents": 8666
+    },
+    {
+      "date": "2024-09-01",
+      "e911Calls": 11988,
+      "answerTime15sPct": 93.23,
+      "fireResponse320sPct": 61.01,
+      "emsResponse540sPct": 81.46,
+      "emergentIncidents": 8386
+    },
+    {
+      "date": "2024-10-01",
+      "e911Calls": 11470,
+      "answerTime15sPct": 93.8,
+      "fireResponse320sPct": 70.78,
+      "emsResponse540sPct": 81.3,
+      "emergentIncidents": 8414
+    },
+    {
+      "date": "2024-11-01",
+      "e911Calls": 14481,
+      "answerTime15sPct": 94.8,
+      "fireResponse320sPct": 73.02,
+      "emsResponse540sPct": 82.07,
+      "emergentIncidents": 7860
+    },
+    {
+      "date": "2024-12-01",
+      "e911Calls": 12842,
+      "answerTime15sPct": 90.69,
+      "fireResponse320sPct": 70.63,
+      "emsResponse540sPct": 82.53,
+      "emergentIncidents": 8285
+    },
+    {
+      "date": "2025-01-01",
+      "e911Calls": 11572,
+      "answerTime15sPct": 94.47,
+      "fireResponse320sPct": 70.59,
+      "emsResponse540sPct": 81.16,
+      "emergentIncidents": 8072
+    },
+    {
+      "date": "2025-02-01",
+      "e911Calls": 10957,
+      "answerTime15sPct": 93.18,
+      "fireResponse320sPct": 70.14,
+      "emsResponse540sPct": 82.66,
+      "emergentIncidents": 7546
+    },
+    {
+      "date": "2025-03-01",
+      "e911Calls": 12327,
+      "answerTime15sPct": 93.94,
+      "fireResponse320sPct": 73.93,
+      "emsResponse540sPct": 83.44,
+      "emergentIncidents": 8425
+    },
+    {
+      "date": "2025-04-01",
+      "e911Calls": 11688,
+      "answerTime15sPct": 93.53,
+      "fireResponse320sPct": 72.57,
+      "emsResponse540sPct": 82.79,
+      "emergentIncidents": 8190
+    },
+    {
+      "date": "2025-05-01",
+      "e911Calls": 11880,
+      "answerTime15sPct": 95.47,
+      "fireResponse320sPct": 74.75,
+      "emsResponse540sPct": 85.27,
+      "emergentIncidents": 8418
+    },
+    {
+      "date": "2025-06-01",
+      "e911Calls": 11736,
+      "answerTime15sPct": 94.64,
+      "fireResponse320sPct": 75.23,
+      "emsResponse540sPct": 84.34,
+      "emergentIncidents": 8124
+    },
+    {
+      "date": "2025-07-01",
+      "e911Calls": 12744,
+      "answerTime15sPct": 94.3,
+      "fireResponse320sPct": 79.12,
+      "emsResponse540sPct": 85.86,
+      "emergentIncidents": 8464
+    },
+    {
+      "date": "2025-08-01",
+      "e911Calls": 12355,
+      "answerTime15sPct": 94.9,
+      "fireResponse320sPct": 76.62,
+      "emsResponse540sPct": 86.91,
+      "emergentIncidents": 8334
+    },
+    {
+      "date": "2025-09-01",
+      "e911Calls": 11604,
+      "answerTime15sPct": 92.98,
+      "fireResponse320sPct": 73.54,
+      "emsResponse540sPct": 87.38,
+      "emergentIncidents": 8099
+    },
+    {
+      "date": "2025-10-01",
+      "e911Calls": 11255,
+      "answerTime15sPct": 94.53,
+      "fireResponse320sPct": 76.49,
+      "emsResponse540sPct": 87.72,
+      "emergentIncidents": 7717
+    },
+    {
+      "date": "2025-11-01",
+      "e911Calls": 11019,
+      "answerTime15sPct": 95.27,
+      "fireResponse320sPct": 77.11,
+      "emsResponse540sPct": 87.54,
+      "emergentIncidents": 7579
+    },
+    {
+      "date": "2025-12-01",
+      "e911Calls": 11929,
+      "answerTime15sPct": 93.34,
+      "fireResponse320sPct": 79.35,
+      "emsResponse540sPct": 88,
+      "emergentIncidents": 8236
+    },
+    {
+      "date": "2026-01-01",
+      "e911Calls": 11985,
+      "answerTime15sPct": 95.39,
+      "fireResponse320sPct": 65.68,
+      "emsResponse540sPct": 81.55,
+      "emergentIncidents": 8174
+    },
+    {
+      "date": "2026-02-01",
+      "e911Calls": 10582,
+      "answerTime15sPct": 96.57,
+      "fireResponse320sPct": 74.75,
+      "emsResponse540sPct": 86.37,
+      "emergentIncidents": 7425
+    }
+  ]
+}

@@ -92,11 +92,13 @@ export default function Choropleth({
           const id = String(feat.properties?.CD ?? i);
           const c = path.centroid(feat as GeoJSON.Feature);
           if (!isFinite(c[0])) return null;
+          const cx = Math.round(c[0] * 10) / 10;
+          const cy = Math.round(c[1] * 10) / 10;
           return (
             <text
               key={`t-${id}`}
-              x={c[0]}
-              y={c[1]}
+              x={cx}
+              y={cy}
               textAnchor="middle"
               dominantBaseline="middle"
               className="pointer-events-none tnum"

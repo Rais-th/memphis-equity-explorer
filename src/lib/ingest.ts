@@ -26,8 +26,13 @@ type EsriStats = {
 };
 
 async function esriQuery(url: string, params: Record<string, string>): Promise<EsriStats> {
-  const q = new URLSearchParams({ f: "json", ...params });
-  const res = await fetch(`${url}/query?${q}`, { cache: "no-store" });
+  const body = new URLSearchParams({ f: "json", ...params });
+  const res = await fetch(`${url}/query`, {
+    method: "POST",
+    headers: { "content-type": "application/x-www-form-urlencoded", "user-agent": "memphis-equity-explorer/1.0" },
+    body,
+    cache: "no-store",
+  });
   if (!res.ok) throw new Error(`${url} ${res.status}`);
   const json = (await res.json()) as EsriStats;
   if (json.error) throw new Error(`${url}: ${json.error.message}`);
@@ -185,6 +190,8 @@ export async function runIngest(): Promise<IngestResult> {
 
   add("Fetching traffic stops by district.");
   const stops = await countByDistrict(SOURCES.trafficStops.url, sinceDist, "Reported_Datetime", "OBJECTID");
+  const stopsTotal = Array.from(stops.values()).reduce((a, b) => a + b, 0);
+  if (stopsTotal === 0) throw new Error("traffic stops query returned 0 features — refusing to persist empty snapshot");
 
   add("Fetching incidents per district (spatial).");
   const incidents = new Map<number, number>();
@@ -201,8 +208,8 @@ export async function runIngest(): Promise<IngestResult> {
   }
 
   add("Fetching citation mix citywide.");
-  let citationMix = { moving: 0, nonMoving: 0, other: 0, total: 0 };
-  try { citationMix = await citywideCitationMix(sinceDist); } catch (e) { add(`citation mix failed: ${(e as Error).message}`); }
+  const citationMix = await citywideCitationMix(sinceDist);
+  if (citationMix.total === 0) throw new Error("citation mix query returned 0 features — refusing to persist empty snapshot");
 
   add("Fetching citations by driver race citywide.");
   let citationsByRace: Record<string, number> = {};

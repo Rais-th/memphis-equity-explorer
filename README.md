@@ -3,7 +3,7 @@
 Public, read-only dashboard of Memphis 911 performance, EMS response, and MPD
 enforcement, normalized to the seven City Council districts.
 
-Live site: _pending_  
+Live: https://memphiseq.vercel.app  
 Source: this repo  
 Contact: rthelemuka@gmail.com
 

@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-24T08:56:44.287Z",
+  "generatedAt": "2026-05-25T09:27:29.062Z",
   "citationMix": {
-    "moving": 69689,
-    "nonMoving": 103286,
-    "other": 4284,
-    "total": 177259
+    "moving": 69819,
+    "nonMoving": 103553,
+    "other": 4293,
+    "total": 177665
   },
   "citationsByRace": {
-    "American Indian/Alaskan Native": 241,
-    "Asian": 2181,
-    "Black": 135937,
-    "Hispanic": 15484,
+    "American Indian/Alaskan Native": 242,
+    "Asian": 2187,
+    "Black": 136254,
+    "Hispanic": 15528,
     "Native Hawaiian/Pacific Islander": 142,
-    "White": 23274
+    "White": 23312
   }
 }

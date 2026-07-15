@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T09:59:01.800Z",
+  "generatedAt": "2026-07-15T10:03:38.183Z",
   "sources": [
     {
       "name": "Memphis City Council Districts 2023",
@@ -28,9 +28,9 @@
     }
   ],
   "totals": {
-    "trafficStops12m": 202484,
+    "trafficStops12m": 203074,
     "incidents12m": 75590,
-    "citations12m": 177746,
+    "citations12m": 178318,
     "population": 628127
   },
   "note": "Per-1,000 rates use an equal-weighted district population estimate (total Memphis population / 7). Citywide metrics (911 answer time, EMS response, citation mix, driver-race breakdown) are reported at the city level because the underlying datasets do not carry council-district keys."

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:25:59.426Z",
+  "generatedAt": "2026-07-22T10:25:44.921Z",
   "months": [
     {
       "date": "2024-07-01",
@@ -184,6 +184,14 @@
       "fireResponse320sPct": 73.33,
       "emsResponse540sPct": 89.15,
       "emergentIncidents": 8745
+    },
+    {
+      "date": "2026-06-01",
+      "e911Calls": 11705,
+      "answerTime15sPct": 93.74,
+      "fireResponse320sPct": 73.49,
+      "emsResponse540sPct": 88.25,
+      "emergentIncidents": 8406
     }
   ]
 }

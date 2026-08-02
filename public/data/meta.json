@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T10:00:12.198Z",
+  "generatedAt": "2026-08-02T09:57:45.865Z",
   "sources": [
     {
       "name": "Memphis City Council Districts 2023",
@@ -28,8 +28,8 @@
     }
   ],
   "totals": {
-    "trafficStops12m": 199268,
-    "incidents12m": 71541,
+    "trafficStops12m": 199845,
+    "incidents12m": 71818,
     "citations12m": 173417,
     "population": 628127
   },

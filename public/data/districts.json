@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:24:03.400Z",
+  "generatedAt": "2026-08-04T10:39:58.576Z",
   "coverageMonths": 12,
   "districts": [
     {
@@ -10,13 +10,13 @@
         35.20543966514352
       ],
       "metrics": {
-        "trafficStops12m": 22239,
-        "incidents12m": 7462,
+        "trafficStops12m": 22344,
+        "incidents12m": 7483,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 247.83800650826907,
-        "incidentsPer1k": 83.15873935719699,
+        "trafficStopsPer1k": 249.00815762492755,
+        "incidentsPer1k": 83.3927695805287,
         "population": 89732
       }
     },
@@ -28,13 +28,13 @@
         35.11897154219974
       ],
       "metrics": {
-        "trafficStops12m": 22357,
-        "incidents12m": 5813,
+        "trafficStops12m": 22478,
+        "incidents12m": 5833,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 249.15303347746624,
-        "incidentsPer1k": 64.78179467748406,
+        "trafficStopsPer1k": 250.50149333571076,
+        "incidentsPer1k": 65.00468060446664,
         "population": 89732
       }
     },
@@ -46,13 +46,13 @@
         35.0238128499134
       ],
       "metrics": {
-        "trafficStops12m": 31059,
-        "incidents12m": 10830,
+        "trafficStops12m": 31167,
+        "incidents12m": 10861,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 346.1307003075826,
-        "incidentsPer1k": 120.69272946106183,
+        "trafficStopsPer1k": 347.33428431328844,
+        "incidentsPer1k": 121.03820264788482,
         "population": 89732
       }
     },
@@ -64,13 +64,13 @@
         35.09258101344038
       ],
       "metrics": {
-        "trafficStops12m": 28396,
-        "incidents12m": 12194,
+        "trafficStops12m": 28474,
+        "incidents12m": 12232,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 316.45343912985334,
-        "incidentsPer1k": 135.89354968127313,
+        "trafficStopsPer1k": 317.32269424508536,
+        "incidentsPer1k": 136.31703294253998,
         "population": 89732
       }
     },
@@ -82,13 +82,13 @@
         35.1283549573108
       ],
       "metrics": {
-        "trafficStops12m": 24570,
-        "incidents12m": 8255,
+        "trafficStops12m": 24707,
+        "incidents12m": 8277,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 273.8153612980876,
-        "incidentsPer1k": 91.9961663620559,
+        "trafficStopsPer1k": 275.34212989791826,
+        "incidentsPer1k": 92.24134088173673,
         "population": 89732
       }
     },
@@ -100,13 +100,13 @@
         35.05295556321894
       ],
       "metrics": {
-        "trafficStops12m": 33834,
-        "incidents12m": 13735,
+        "trafficStops12m": 33930,
+        "incidents12m": 13774,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 377.0561226764142,
-        "incidentsPer1k": 153.06691035528016,
+        "trafficStopsPer1k": 378.12597512593055,
+        "incidentsPer1k": 153.50153791289617,
         "population": 89732
       }
     },
@@ -118,13 +118,13 @@
         35.219738490429066
       ],
       "metrics": {
-        "trafficStops12m": 37936,
-        "incidents12m": 13792,
+        "trafficStops12m": 38022,
+        "incidents12m": 13854,
         "citationsTotal12m": null,
         "citationMovingPct": 40.91352058910026,
         "citationNonMovingPct": 56.127715275895675,
-        "trafficStopsPer1k": 422.77002630053937,
-        "incidentsPer1k": 153.70213524718048,
+        "trafficStopsPer1k": 423.72843578656443,
+        "incidentsPer1k": 154.39308162082645,
         "population": 89732
       }
     }
